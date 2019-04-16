@@ -1,0 +1,1 @@
+# basic algorithm by javascript
